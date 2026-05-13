@@ -1,9 +1,9 @@
-- Kodeprosjekt:
-Her finner du diverse prosjekter jeg har jobbet med
+- Kodeprosjekt - Her finner du diverse prosjekter jeg har jobbet med
 
-- Utdanning:
-Her finner du eksamener fra skolegang.
+- Utdanning - Eksamener fra skolegang:
   - Fagskole IKT og Nettverksikkerhet - Noroff - Deltid
   - Bachelor i Cybersikkerhet - Høyskolen Kristiania - Fulltid
 
-- OBS: Alle opplastede eksamener er godkjent for opplastning av alle involverte studenter. Det er noen eksamener jeg ikke har lastet opp pga ikke innhentet godkjenning. Dette er et frivillig hensyn som er tatt for andre studenter.
+- OBS: Det er innhentet tillatelse for opplastning av alle involverte studenter.
+    - Det vil mangle noen eksamener da jeg ikke innhentet tillatelse under gruppearbeidet på tidligere eksamener.
+      Dette er et frivillig hensyn jeg har valgt å ta for andre studenter.
